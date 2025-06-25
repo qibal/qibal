@@ -1,6 +1,6 @@
 # Hi 👋
 
-Suka ngoding web pakai JavaScript, Next.js. database PostgreSQL. Masih belajar tentang golang biar bisa microservice. Ya gitu aja.
+Suka ngoding web pakai JavaScript, Next.js. database PostgreSQL dan tech stack lain yang populer
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@ Suka ngoding web pakai JavaScript, Next.js. database PostgreSQL. Masih belajar t
 </div>
 
 ## Kenapa JavaScript?
-Saya perlu kejar waktu untuk buat sebuah produk bukan menjadi ahli di banyak bahasa, JavaScript itu bahasa all in one.
+Saya fokus buat sebuah produk bukan menjadi ahli di banyak bahasa pemprograman, JavaScript itu bahasa all in one.
 
 ## Kenapa Next.js?
 Karena routing untuk front end itu sangat mudah.
@@ -20,7 +20,3 @@ Karena routing untuk front end itu sangat mudah.
 ## Kenapa Golang?
 Golang itu hemat memory ngga kayak Node.js menghabiskan memory sangat besar.
 
-
-<div align="center">
-  <strong>lampaui batasmu.</strong>
-</div>
