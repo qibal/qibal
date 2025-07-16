@@ -1,5 +1,6 @@
 # Sewf taught computew science 🥺
-vide codew 💻 
+vide codew 💻
+1+ yeaw expewience with Next.js ecosystem 🚀
 
 ## Tech Stack
 
@@ -10,11 +11,10 @@ vide codew 💻
   <img src="https://github.com/user-attachments/assets/86f890cf-c5e8-45ed-9714-a34fef6d021c" alt="Postgres" width="60" height="60"/>
 </div>
 
-## Kenapa JavaScript?
-Saya fokus buat sebuah produk bukan menjadi ahli di banyak bahasa pemprograman, JavaScript itu bahasa all in one.
+## Why JavaScript?
+I focus on building products rather than mastering multiple programming languages. JavaScript is an all-in-one solution.
 
-## Kenapa Next.js?
-Karena routing untuk front end itu sangat mudah.
+## Why Next.js?
+Because it makes front-end routing incredibly simple.
 
-## React Ecosystem
 
