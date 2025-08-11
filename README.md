@@ -1,6 +1,6 @@
-# Sewf taught computew science 🥺
-vide codew 💻<br>
-1+ yeaw expewience with Next.js ecosystem 🚀
+# Self taught computer science 
+
+1+ yeaw expewience with Next.js ,react ecosystem 🚀
 
 ## Tech Stack
 
