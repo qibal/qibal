@@ -1,6 +1,6 @@
 # Self taught computer science 
 
-1+ yeaw expewience with Next.js ,react ecosystem 🚀
+1+ year experience with Next.js ,react ecosystem 🚀
 
 ## Tech Stack
 
